@@ -1,5 +1,5 @@
 EXPERIMENT_NAME = "implementing_gan"
-DEVICE = "cpu"
+DEVICE = "cuda"
 IMG_SIZE = 28
 LATENT_DIM = 100
 BATCH_SIZE = 64
